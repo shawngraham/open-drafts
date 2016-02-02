@@ -7,3 +7,5 @@ If you wish to leave a comment, just click on the 'issues' link above and leave 
 Cheers!
 
 -Shawn
+
+[Algorithmic Listening, or, _a gentle introduction to the sonification of historical data_](sonification.md), to be submitted to the Programming Historian
